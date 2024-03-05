@@ -1,5 +1,7 @@
 ## P5.js Dragon Ball Z Browser Game Demonstration
 
+# To play, go to https://techtunist.github.io/DragonBallZ_P5.js/
+
 Installation:
 
     # Clone the repository to your local machine.
